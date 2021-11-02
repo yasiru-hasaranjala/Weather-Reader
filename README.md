@@ -6,7 +6,7 @@
 
 4. Start Program by 'node src/app.js'
 
-5. Use following format to get list of temperature data 
+5. Use following script to get list of temperature data 
 
 curl --location --request GET 'http://localhost:3000/' \
 --header 'x-auth: ba33e7c4-1173-40cb-9662-e090eebd6f67'
